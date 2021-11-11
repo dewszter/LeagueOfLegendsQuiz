@@ -1,0 +1,15 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+header
+{
+    background-color: #0E212B
+    ;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
