@@ -3,10 +3,6 @@
     padding: 0;
     margin: 0;
 }
-body
-{
-    background: linear-gradient(50deg, #23546C, #759A8F );
-}
 header
 {
     background-color: #0E212B;
@@ -15,6 +11,38 @@ header
     padding: 1%;
 }
 
+body
+{
+    background: linear-gradient(180deg, #23546C, #7d8c94 );
+}
+
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color: ;
+}
+
+p
+{
+    font-size: 23px;
+    text-align: center;
+    color: #0E212B;
+}
+
+.tests
+{
+    background: linear-gradient(0deg, #490d46,  #835480 );
+    padding: 4%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 
 
 .account
