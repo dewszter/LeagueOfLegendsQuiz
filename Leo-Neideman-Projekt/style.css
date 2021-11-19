@@ -20,14 +20,13 @@ h1
 {
     text-align: center;
     font-size: 50px;
-    color: ;
 }
 
 p
 {
     font-size: 23px;
     text-align: center;
-    color: #0E212B;
+    color: white;
 }
 
 .tests
@@ -44,6 +43,11 @@ p
     justify-content: space-around;
 }
 
+a
+{
+    color: white;
+    text-transform: none;
+}
 
 .account
 {
@@ -55,5 +59,15 @@ p
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.quick form
+{
+    font-size: 14px;
+    padding-top: 2%;
+    margin: auto;
+    max-width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 
